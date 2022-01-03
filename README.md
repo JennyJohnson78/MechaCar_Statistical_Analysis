@@ -48,8 +48,24 @@ PSI for manufacturing lot 2:
 
 ![image](https://user-images.githubusercontent.com/67409852/147900389-88ec6455-db1c-4c4e-b5d8-0f15874e7b25.png)
 
+- As with Lot 1, the t-test for Lot 2 shows that they are not statistically different from the population mean. The p-value is 0.6072 and is not low enough to reject the null hypothesis.
+
 PSI for manufacturing lot 3:
 
 ![image](https://user-images.githubusercontent.com/67409852/147900496-478f9247-2f50-426c-bdf9-78410f1de8cd.png)
 
+- The t-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean. The p-value is 0.0417, which is just low enough to reject the null hypothesis. 
+
 ## Study Design: MechaCar vs Competition
+
+A good statistical study to perform would be to predict values for maintenance cost using a linear model and values from cost. When buying a new car, maintenance costs can be a big determining factor to consumers. AutosRUs could use this study against competitors and increase sales for the company, as well as informing customers.
+
+- Metric(s) to test: the r-squared value to determine the likelihood that future data points will fit the linear model
+
+- Null hypothesis: the slope of the linear model is zero
+
+- Alternative hypothesis: the slope of the linear model is not zero
+
+- Statistical test to use: a simple linear regression t-test
+
+- Data needed to run test: the cost and maintenance cost of MechaCar prototypes
