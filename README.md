@@ -28,6 +28,8 @@ Lot Summary:
 
 ![image](https://user-images.githubusercontent.com/67409852/147899935-5325199c-e3de-401c-83dc-f86b4925baf1.png)
 
+- Overall variance is under 100 PSI meeting specifications, however the variance for Lot 3 is well over 100 PSI, at 170.28. Therefore lot 3 does not meet design specifications.
+
 ## T-Tests on Suspension Coils
 
 PSI across all manufacturing lots:
