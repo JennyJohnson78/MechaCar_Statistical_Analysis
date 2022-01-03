@@ -12,3 +12,10 @@ Summary:
 
 ## Summary Statistics on Suspension Coils
 
+Total Summary:
+
+![image](https://user-images.githubusercontent.com/67409852/147899669-935e65fe-e65e-4341-bb0f-9cd917b674b4.png)
+
+Lot Summary:
+
+![image](https://user-images.githubusercontent.com/67409852/147899935-5325199c-e3de-401c-83dc-f86b4925baf1.png)
