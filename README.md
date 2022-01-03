@@ -36,9 +36,13 @@ PSI across all manufacturing lots:
 
 ![image](https://user-images.githubusercontent.com/67409852/147900212-54233d1f-c235-44e1-990a-35ecb5b9ccd5.png)
 
+- The results of the t-test for the suspension coils spanning all manufacturing lots shows that they aren't statistically different from the population mean. Because the p-value is 0.0603, we cannot reject the null hypothesis.
+
 PSI for manufacturing lot 1:
 
 ![image](https://user-images.githubusercontent.com/67409852/147900348-63e25512-caf7-44c7-8067-39552ed7e1a0.png)
+
+- The t-test for the suspension coils for Lot 1 shows that they aren't statistically different from the population mean. The p-value is 1.00, thus not low enough to reject the null hypothesis.
 
 PSI for manufacturing lot 2:
 
@@ -47,3 +51,5 @@ PSI for manufacturing lot 2:
 PSI for manufacturing lot 3:
 
 ![image](https://user-images.githubusercontent.com/67409852/147900496-478f9247-2f50-426c-bdf9-78410f1de8cd.png)
+
+## Study Design: MechaCar vs Competition
