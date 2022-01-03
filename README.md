@@ -1,5 +1,7 @@
 # MechaCar Statistical Analysis
 
+Below is a statisitical analysis of automobile performance with R.
+
 ## Linear Regression to Predict MPG
 
 Linear Regression Model:
