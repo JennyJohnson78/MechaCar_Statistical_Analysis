@@ -1,12 +1,15 @@
 # MechaCar Statistical Analysis
 
-Below is a statisitical analysis of automobile performance with R.
+AutosRUs' MechaCar is "suffering from production troubles" and upper management has called on the data analytics team to review the production data for insights that may help the manufacturing team. Below is a statisitical analysis of automobile performance with R.
 
 ## Linear Regression to Predict MPG
 
 Linear Regression Model:
 
 ![image](https://user-images.githubusercontent.com/67409852/147899396-369f415b-1f38-4ed1-b29a-49fd6bb16b81.png)
+
+-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vehicle length and ground clearance are the most significant variables in our dataset which show a non-random effect on the MPG of the MechaCar. 
+
 
 Summary:
 
