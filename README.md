@@ -8,12 +8,15 @@ Linear Regression Model:
 
 ![image](https://user-images.githubusercontent.com/67409852/147899396-369f415b-1f38-4ed1-b29a-49fd6bb16b81.png)
 
--Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vehicle length and ground clearance are the most significant variables in our dataset which show a non-random effect on the MPG of the MechaCar. 
-
-
 Summary:
 
 ![image](https://user-images.githubusercontent.com/67409852/147899484-5152ec15-d271-454a-ba21-1041aceadb21.png)
+
+-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vehicle length and ground clearance are the most significant variables in our dataset which show a non-random effect on the MPG of the MechaCar. Vehicle length and ground clearance resulted in p-values of 2.6x10-12 and 5.21x10-8, respectively.
+
+-Because the p-value of 5.35x10-11, The slope of the linear model can not be considered to be zero. Therefore, the null hypothesis must be rejected, meaning the relationship between our variables and the miles per gallon is subject to more than random chance.
+
+-The r-squared value of 0.7149, meaning the model is 71% accurate, so the model does predict the mpg of the MechaCar prototype somewhat effectively. 
 
 ## Summary Statistics on Suspension Coils
 
