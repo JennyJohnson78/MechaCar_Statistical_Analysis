@@ -60,7 +60,7 @@ PSI for manufacturing lot 3:
 
 A good statistical study to perform would be to predict values for maintenance cost using a linear model and values from cost. When buying a new car, maintenance costs can be a big determining factor to consumers. AutosRUs could use this study against competitors and increase sales for the company, as well as informing customers.
 
-- Metric(s) to test: the r-squared value to determine the likelihood that future data points will fit the linear model
+- Metric(s) to test: the r-squared value to determine if future data points would fit the model
 
 - Null hypothesis: the slope of the linear model is zero
 
