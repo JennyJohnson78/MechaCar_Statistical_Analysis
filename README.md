@@ -19,3 +19,21 @@ Total Summary:
 Lot Summary:
 
 ![image](https://user-images.githubusercontent.com/67409852/147899935-5325199c-e3de-401c-83dc-f86b4925baf1.png)
+
+## T-Tests on Suspension Coils
+
+PSI across all manufacturing lots:
+
+![image](https://user-images.githubusercontent.com/67409852/147900212-54233d1f-c235-44e1-990a-35ecb5b9ccd5.png)
+
+PSI for manufacturing lot 1:
+
+![image](https://user-images.githubusercontent.com/67409852/147900348-63e25512-caf7-44c7-8067-39552ed7e1a0.png)
+
+PSI for manufacturing lot 2:
+
+![image](https://user-images.githubusercontent.com/67409852/147900389-88ec6455-db1c-4c4e-b5d8-0f15874e7b25.png)
+
+PSI for manufacturing lot 3:
+
+![image](https://user-images.githubusercontent.com/67409852/147900457-20c32d1f-4ce7-4dcd-953d-ad8bd63c3759.png)
