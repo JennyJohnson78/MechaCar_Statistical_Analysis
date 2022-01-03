@@ -36,4 +36,4 @@ PSI for manufacturing lot 2:
 
 PSI for manufacturing lot 3:
 
-![image](https://user-images.githubusercontent.com/67409852/147900457-20c32d1f-4ce7-4dcd-953d-ad8bd63c3759.png)
+![image](https://user-images.githubusercontent.com/67409852/147900496-478f9247-2f50-426c-bdf9-78410f1de8cd.png)
